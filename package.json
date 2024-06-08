@@ -1,0 +1,15 @@
+{
+  "name": "refine-app",
+  "version": "0.0.3",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "refine-app": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
