@@ -11,6 +11,9 @@ client/node_modules
 server/node_modules
 client/.env
 
+bin
+package.json
+
 
 
 
